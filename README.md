@@ -2,6 +2,8 @@
 
 ## mip2 cli 用户自定义命令插件 开发示例
 
+[开始扩展自定义命令](https://github.com/mipengine/mip2/blob/master/docs/cli/cli-user-plugin.md)
+
 项目结构如下：
 
 ```
